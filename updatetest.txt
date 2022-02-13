@@ -1,0 +1,14 @@
+;aiu;
+
+[Update]
+Name = test2
+URL = https://github.com/albarazz/windows/blob/main/test2.exe
+Size = 1921610
+MD5 = a0699852e2b08b7fd753d41ee02851b7
+ServerFileName = test2.exe
+Flags = Sys64|Os64
+RegistryKey = HKUD\Software\Your Application\Version
+Description = xxxx
+Feature = xxxx
+Enhancement = xxxx
+BugFix = xxxx
